@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "swichcl",
+      "request": "launch",
+      "mainClass": "swichcl",
+      "projectName": "conditionl statements_f7a35ab0"
+    },
+    {
+      "type": "java",
+      "name": "switchmon",
+      "request": "launch",
+      "mainClass": "switchmon",
+      "projectName": "conditionl statements_8af4afb4"
+    },
+    {
+      "type": "java",
+      "name": "swichcl",
+      "request": "launch",
+      "mainClass": "swichcl",
+      "projectName": "conditionl statements_8af4afb4"
+    },
+    {
+      "type": "java",
+      "name": "nestedif",
+      "request": "launch",
+      "mainClass": "nestedif",
+      "projectName": "conditionl statements_8f109286"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/TDS Institute/Desktop/PY-basics-master/java/conditionl statements",
+      "program": "c:/Users/TDS Institute/Desktop/PY-basics-master/java/conditionl statements/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
