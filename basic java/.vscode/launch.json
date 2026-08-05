@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "intputchar",
+      "request": "launch",
+      "mainClass": "intputchar",
+      "projectName": "basic java_ecff23e1"
+    },
+    {
+      "type": "java",
+      "name": "userinput",
+      "request": "launch",
+      "mainClass": "userinput",
+      "projectName": "basic java_ecff23e1"
+    },
+    {
+      "type": "java",
+      "name": "robot",
+      "request": "launch",
+      "mainClass": "robot",
+      "projectName": "basic java_ecff23e1"
+    },
+    {
+      "type": "java",
+      "name": "hotel",
+      "request": "launch",
+      "mainClass": "hotel",
+      "projectName": "basic java_ecff23e1"
+    },
+    {
+      "type": "java",
+      "name": "first",
+      "request": "launch",
+      "mainClass": "first",
+      "projectName": "basic java_ecff23e1"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/TDS Institute/Desktop/PY-basics-master/java/basic java",
+      "program": "c:/Users/TDS Institute/Desktop/PY-basics-master/java/basic java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
