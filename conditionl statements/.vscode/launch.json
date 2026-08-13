@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "continew",
+      "request": "launch",
+      "mainClass": "continew",
+      "projectName": "conditionl statements_e72c8d36"
+    },
+    {
+      "type": "java",
+      "name": "break1",
+      "request": "launch",
+      "mainClass": "break1",
+      "projectName": "conditionl statements_e72c8d36"
+    },
+    {
+      "type": "java",
       "name": "swichcl",
       "request": "launch",
       "mainClass": "swichcl",
