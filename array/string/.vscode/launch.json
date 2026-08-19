@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "string_all_methods",
+      "request": "launch",
+      "mainClass": "string_all_methods",
+      "projectName": "string_538249a4"
+    },
+    {
+      "type": "java",
+      "name": "stirng2",
+      "request": "launch",
+      "mainClass": "stirng2",
+      "projectName": "string_538249a4"
+    },
+    {
+      "type": "java",
+      "name": "demo1",
+      "request": "launch",
+      "mainClass": "demo1",
+      "projectName": "string_bf87daee"
+    },
+    {
+      "type": "java",
+      "name": "stirng2",
+      "request": "launch",
+      "mainClass": "stirng2",
+      "projectName": "string_bf87daee"
+    },
+    {
+      "type": "java",
+      "name": "string1",
+      "request": "launch",
+      "mainClass": "string1",
+      "projectName": "string_bf87daee"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/TDS Institute/Desktop/code by jp/java codes/string",
+      "program": "c:/Users/TDS Institute/Desktop/code by jp/java codes/string/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
