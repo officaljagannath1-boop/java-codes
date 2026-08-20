@@ -52,7 +52,6 @@ public class string_all_methods {
         System.out.println("indexOf method: " + str3.indexOf("e"));
         System.out.println("indexOf method: " + str3.indexOf("World"));
         System.out.println("indexOf method: " + str3.indexOf("o"));
-       
         // replace method of string
         // use replace() method to replace all occurrences of a specific character or
         // substring in a string with another character or substring.
@@ -64,5 +63,15 @@ public class string_all_methods {
         System.out.println("\n\tthis is trim method of string\n");
         String str4 = "   Hello, World!   ";
         System.out.println("trim method: [" + str4.trim() + "]");
+        //startsWith and endsWith methods of string
+        // use startsWith() method to check if a string starts with a specific prefix, and use endsWith() method to check if a string ends with a specific suffix.
+        System.out.println("\n\tthis is startsWith and endsWith methods of string\n");
+        System.out.println("startsWith method: " + str4.startsWith("   Hello"));
+        System.out.println("endsWith method: " + str4.endsWith("World!   "));
+        //empty method of string
+        // use isEmpty() method to check if a string is empty (i.e., has a length of 0).
+        System.out.println("\n\tthis is isEmpty method of string\n");
+        String str5 = "";
+        System.out.println("isEmpty method: " + str5.isEmpty());
     }
 }

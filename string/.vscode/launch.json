@@ -6,6 +6,13 @@
       "name": "string_all_methods",
       "request": "launch",
       "mainClass": "string_all_methods",
+      "projectName": "string_bf87daee"
+    },
+    {
+      "type": "java",
+      "name": "string_all_methods",
+      "request": "launch",
+      "mainClass": "string_all_methods",
       "projectName": "string_538249a4"
     },
     {
