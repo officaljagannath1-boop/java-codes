@@ -1,6 +1,6 @@
 class c3 {
-    // this is mehtod over loding
-    static class over {
+    // this is method overloading               
+     static class over {
         // method overloading is a feature that allows a class to have more than one
         // method with the
         // same name, but different parameters (different type or number of parameters).
