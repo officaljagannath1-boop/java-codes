@@ -10,10 +10,6 @@ class c4 {
         void sum(int a, int b) {
             System.out.println("Sum of two numbers: " + (a + b));
         }
-
-        void sum(int a, int b) {
-            System.out.println("Sum of two numbers: " + (a + b));
-        }
     }
 
     public static void main(String[] args) {

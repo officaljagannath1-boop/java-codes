@@ -1,5 +1,5 @@
 abstract class animal {
-    abstract viod sound();
+    abstract void sound();
 
     void eat() {
         System.out.println(" animal follow food chain");
@@ -9,7 +9,12 @@ abstract class animal {
 
 class dogi extends animal {
     void bo() {
-        System.out.println("dogesh bhi class");
+        System.out.println("dogesh bhai class");
+    }
+    
+    @Override
+    void sound() {
+        System.out.println("dog sound");
     }
 }
 
