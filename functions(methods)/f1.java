@@ -3,7 +3,7 @@ import java.util.Scanner;
 class f1
 {
     
-        static void cal()
+       static  void cal()
         {
             // make a simple calculator using switch case
             Scanner s = new Scanner(System.in);

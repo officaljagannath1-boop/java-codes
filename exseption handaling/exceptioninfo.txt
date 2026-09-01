@@ -1,0 +1,17 @@
+ use of try keyword: "The `try` keyword is used to define a block of code that might throw an exception.
+  It is always used in conjunction with `catch` and/or `finally` blocks to handle exceptions that may occur 
+  during the execution of the code within the `try` block."
+
+
+  use of catch keyword: "The `catch` keyword is used to define a block of code that handles exceptions thrown in the associated `try` block.
+  It allows you to specify the type of exception you want to catch and provides a way to respond to the error, such as logging the error,
+   displaying a message to the user, or performing cleanup operations."
+ 
+ 
+  use of finally keyword: "The `finally` keyword is used to define a block of code that will always execute after the `try` and `catch` blocks,
+   regardless of whether an exception was thrown or caught.
+
+  This is useful for performing cleanup operations, such as closing files or releasing resources, ensuring that
+  
+  It allows you to create and throw an exception object, which can then be caught by a corresponding `catch` block. The `throw` statement can be 
+  used to propagate exceptions up the call stack, enabling higher-level code to handle the error appropriately."                     
