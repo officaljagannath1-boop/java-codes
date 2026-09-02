@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "throws1",
+      "request": "launch",
+      "mainClass": "throws1",
+      "projectName": "exseption handaling_4780968a"
+    },
+    {
+      "type": "java",
+      "name": "throw1",
+      "request": "launch",
+      "mainClass": "throw1",
+      "projectName": "exseption handaling_4780968a"
+    },
+    {
+      "type": "java",
+      "name": "e_arthimaticexpeiton",
+      "request": "launch",
+      "mainClass": "e_arthimaticexpeiton",
+      "projectName": "exseption handaling_4780968a"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/TDS Institute/Desktop/code by jp/java codes/exseption handaling",
+      "program": "c:/Users/TDS Institute/Desktop/code by jp/java codes/exseption handaling/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
