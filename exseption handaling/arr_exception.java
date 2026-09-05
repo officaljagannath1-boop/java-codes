@@ -52,7 +52,7 @@ class arr_exception {
             System.out.print("Row ["+i+"]  Column ["+j+"] :");
             System.out.println(a[i][j]);
          }
-         System.out.println("");
+         System.out.println("Mximum value in array  :"+ M);
       }
       
 
