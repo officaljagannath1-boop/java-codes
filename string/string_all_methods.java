@@ -1,5 +1,11 @@
+import java.util.Scanner;
 public class string_all_methods {
     public static void main(String[] args) {
+        // string user input
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a string: ");
+        String name = sc.nextLine();
+
         // this is upper case, lower case methods of string
         String a = "hii am jagannath lerning java";
         System.out.println("\tthis is upper case and lower case methods of string\n");
