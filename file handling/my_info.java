@@ -25,7 +25,7 @@ public class my_info {
             
             fr.write(d);
         } 
-        System.out.println("\n...........file Redeing started now ......\n\n");
+        System.out.println("\n...........file Reading started now ......\n\n");
         try (BufferedReader br = new BufferedReader(new FileReader(fname))) {
             String line;
             while ((line = br.readLine()) != null) {

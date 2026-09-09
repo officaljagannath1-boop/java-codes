@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "e1",
+      "request": "launch",
+      "mainClass": "e1",
+      "projectName": "exseption handaling_4780968a"
+    },
+    {
+      "type": "java",
+      "name": "e_nm_format",
+      "request": "launch",
+      "mainClass": "e_nm_format",
+      "projectName": "exseption handaling_4780968a"
+    },
+    {
+      "type": "java",
       "name": "arr_exception",
       "request": "launch",
       "mainClass": "arr_exception",
